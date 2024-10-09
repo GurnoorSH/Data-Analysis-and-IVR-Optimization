@@ -9,7 +9,7 @@ This project analyzes call center metrics such as **Average Handle Time (AHT)** 
 - **IVR Improvements**: Proposes automation for frequent issues like **flight changes**, **seating preferences**, and **loyalty inquiries**.
 
 ## Output
--**Predictions**: The predicted call reasons are saved in test.csv.
--**IVR Recommendations**: Proposes specific improvements to automate frequent call reasons and reduce agent intervention.
+- **Predictions**: The predicted call reasons are saved in test.csv.
+- **IVR Recommendations**: Proposes specific improvements to automate frequent call reasons and reduce agent intervention.
 ## License
 This project is licensed under the MIT License.
